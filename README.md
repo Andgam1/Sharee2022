@@ -1,7 +1,7 @@
 # Sharee2022
 (Plantilla para la creación de un proyecto en ideapolis)
 
-# Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
+# <p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada. </p>
 
 # Titulo : Sharee
 
@@ -28,7 +28,7 @@ Fecha : 2022
 
 
 # ¿Quiénes somos?  
-Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Procesos de Negocio, tras un Brainstorming realizado en clase, llegamos a la conclusión de que era necesario formar esta comunidad. Tenemos la suerte de compartir clase con personas de diversas nacionalidades y religiones, por ello sabemos de la riqueza que proporciona la conexión mental y física con otros países. Es así como nació esta idea que titulamos como "Sharee".
+<p align = "justify"> Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Procesos de Negocio, tras un Brainstorming realizado en clase, llegamos a la conclusión de que era necesario formar esta comunidad. Tenemos la suerte de compartir clase con personas de diversas nacionalidades y religiones, por ello sabemos de la riqueza que proporciona la conexión mental y física con otros países. Es así como nació esta idea que titulamos como "Sharee".</p>
 
 # Misión  
 
@@ -43,7 +43,7 @@ Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Proces
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
 
 * # Etapa 1: Ideación de proyecto
-El proyecto surgió a raiz de brainstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que los estudiantes extranjeros se pudieran adaptar mucho mas facil a la cultura y experiencia en Granada. Actividades realizadas mediante Trello https://trello.com/b/VBfGb6pJ/sharee
+<p align = "justify">El proyecto surgió a raiz de brainstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que los estudiantes extranjeros se pudieran adaptar mucho mas facil a la cultura y experiencia en Granada. Actividades realizadas mediante Trello https://trello.com/b/VBfGb6pJ/sharee. </p>
 
 Investigación de campo Desk research propuestas inspiradoras para el proyecto)
 
