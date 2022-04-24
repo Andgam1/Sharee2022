@@ -35,7 +35,7 @@
 <p align = "justify">Somos cinco estudiantes de máster de la Universidad de Granada y gracias a nuestra formación y experiencia hemos logrado formar un equipo multidisciplinar donde cada uno podrá aportar valor a nuestra comunidad. Jenny es nuestra Ingeniera de sistemas, quien, gracias a su experiencia en consultoría de software para implementaciones en cliente, brindará el apoyo técnico para el diseño e implementación de la aplicación móvil Sharee. Adriana, Administradora de empresas aportará con su visión estratégica, experiencia en marketing y manejo de relaciones públicas, para la formación de la comunidad y su consolidación, así como su promoción, divulgación y fidelización de nuestros miembros. Andrés, Ingeniero Industrial colaborará con la gestión financiera para el adecuado funcionamiento de las actividades de la comunidad y Daniela Ingeniera agroindustrial, gracias a su experiencia en gestión de procesos y calidad, y transformación digital, contribuirá con la implementación de las mejores prácticas, asegurándose de llevar a cabo el objetivo de nuestra comunidad.</p>
 
 # Metodología
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
+Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences).
 
 * # Etapa 1: Ideación de proyecto
 <p align = "justify">El proyecto surgió a raiz de brainstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que los estudiantes extranjeros se pudieran adaptar mucho mas facil a la cultura y experiencia en Granada. Actividades realizadas mediante Trello https://trello.com/b/VBfGb6pJ/sharee. </p>
