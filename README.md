@@ -5,19 +5,19 @@
 
 # Titulo : Sharee
 
-# Autor(es) Daniela Morales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra
+# Autor(es): Daniela Morales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra.
 
 <p align = "justify"> Resumen : Sharee nace a partir de esta necesidad detectada pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada.</p>
 
 # Logotipo : ![](Propuesta_4.png)
 
-Slogan (frase motivadora/inspiradora): ________
+Slogan: Comparte experiencias, y en el camino construye grandes amistades.
 
-Hashtag ___
+Hashtag: #ComunidadAmigos #Amigos #Sharee #Estudiantes #CompartirExperiencias
 
-- Licencia ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)(usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
+Licencia: ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
 
-Fecha : 2022
+Fecha: Abril 2022
 
 # Redes Sociales:  
 
