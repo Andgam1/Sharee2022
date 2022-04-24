@@ -75,7 +75,16 @@ Productos utilizados
 Propuestas de mejora
 (...)
 
-Referencias y recursos utilizados :
+**Referencias y recursos utilizados:**
+
+- Herramienta Canva ( https://www.canva.com/)
+- Programa Justmind
+- Programa Gimp
+- Twitter (https://twitter.com/home)
+- Instagram (https://www.instagram.com/)
+- Youtube (https://www.youtube.com/)
+- Trello (https://trello.com/b/VBfGb6pJ/sharee.)
+
 
 Proceso UX
 Diseño de Experiencias UX
