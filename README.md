@@ -27,7 +27,18 @@ Fecha : 2022
 * <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> Tweeter:Poner enlace  
 
 
-...
+# ¿Quiénes somos?  
+Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Procesos de Negocio, tras un Brainstorming realizado en clase, llegamos a la conclusión de que era necesario formar esta comunidad. Tenemos la suerte de compartir clase con personas de diversas nacionalidades y religiones, por ello sabemos de la riqueza que proporciona la conexión mental y física con otros países. Es así como nació esta idea que titulamos como "Sharee".
+
+# Misión  
+
+# Visión  
+
+
+# Acerca de Nosotros
+
+
+
 # Metodología
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
 
