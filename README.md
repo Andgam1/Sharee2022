@@ -28,11 +28,11 @@ Fecha : 2022
 
 
 ...
-Metodología
+# Metodología
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
 
-Etapa 1: Ideación de proyecto
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+* # Etapa 1: Ideación de proyecto
+El proyecto surgió a raiz de brainstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que los estudiantes extranjeros se pudieran adaptar mucho mas facil a la cultura y experiencia en Granada. Actividades realizadas mediante Trello https://trello.com/b/VBfGb6pJ/sharee
 
 Investigación de campo Desk research propuestas inspiradoras para el proyecto)
 
@@ -44,7 +44,7 @@ Motivación de la propuesta .... ¿ por qué consideras interesante ?
 
 Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
 
-Etapa 2: Prototipar / productos
+* # Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
@@ -54,7 +54,7 @@ publicidad: banner (... )
 
 ...
 
-Etapa 3: Técnicas de evaluación utilizadas
+* # Etapa 3: Técnicas de evaluación utilizadas
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone)
 
 Test con usuarios (...)
