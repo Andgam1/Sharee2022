@@ -67,11 +67,10 @@ Para medir el desempeño de la comunidad nos basaremos en el uso de las siguient
 Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener un seguimiento a los usarios y poder mejorar la experiencia de la app cada vez mas.
 
 
-Conclusiones y trabajo futuro
-Grado de consecución del proyecto
-Problemas identificados (técnicos / sobre la idea inicial / planificacion… )
-Propuestas de mejora (por qué consideras que merece la pena continuar)
-Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
+**Conclusiones y trabajo futuro**  
+
+- **Problemas identificados**: es necesario un gran desembolso inicial si queremos hacer publicidad en otros medios que no sean las tipicas redes sociales.  
+- **Propuestas de mejora**: se establece un foro para que los usuarios puedan aportar su opinión y propuestas de mejora.
 
 
 **Referencias y recursos utilizados:**
