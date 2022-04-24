@@ -3,9 +3,9 @@
 
 # Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
-Titulo : Sharee
+# Titulo : Sharee
 
-Autor(es) Daniela Maroales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra
+# Autor(es) Daniela Maroales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra
 
 Resumen : # Sharee2022
 Sharee nace a partir de esta necesidad detectada pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada.
