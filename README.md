@@ -3,7 +3,7 @@
 
 # <p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada. </p>
 
-# Titulo : Sharee
+# Titulo: Sharee
 
 # Autor(es): Daniela Morales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra.
 
