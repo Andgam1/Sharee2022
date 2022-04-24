@@ -16,9 +16,9 @@
 
 **Hashtag**: #ComunidadAmigos #Amigos #Sharee #Estudiantes #CompartirExperiencias
 
-Licencia: ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
+**Licencia**: ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
 
-Fecha: Abril 2022
+**Fecha**: Abril 2022
 
 # Redes Sociales:  
 
