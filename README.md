@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Andgam1/Sharee2022/blob/main/Banner.jpeg?raw=true" width="1000"/>
 
-# Titulo: Sharee Community
+# Titulo: Sharee Community.
 
 # Autor(es): Daniela Morales, Adriana Carrillo, Jenny Ruiz, Andres Gamarra.
 
