@@ -16,14 +16,17 @@ Slogan (frase motivadora/inspiradora): ________
 
 Hashtag ___
 
-Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
+- Licencia ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)(usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
 Fecha : 2022
 
-Medios (donde se tiene presencia):
+# Redes Sociales:  
 
-:octocat: (github url)
-Twitter
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/descarga1.png?raw=true" width="30"/> Guithub:https://github.com/Andgam1/Sharee2022#readme  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/f.jpg?raw=true" width="30"/> Instagram:Poner enlace  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> Tweeter:Poner enlace  
+
+
 ...
 Metodología
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
@@ -46,7 +49,6 @@ Etapa 2: Prototipar / productos
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
 
-redes sociales (...)
 
 publicidad: banner (... )
 
