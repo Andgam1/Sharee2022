@@ -28,6 +28,15 @@
 
 # Misión  
 
+<p align = "justify">Hacer posible que los estudiantes extranjeros se integren de forma adecuada y vivan al maximo de la experiencia de estudiar en otro pais y logren una conexión con culturas diversas de nuestra comunidad acompañándolos en una vivencia de viaje intercultural que supere cualquier expectativa incorporando los beneficios del mundo Sharee.</p>
+
+- Intercambio Cultural.
+- Salida de la zona de Confort.
+- Experiencia Única.
+- Desarrollo Personal.
+- Conocimiento de otras culturas.
+- Inmersión e intercambio con otras nacionalidades.
+
 # Visión  
 
 
