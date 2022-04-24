@@ -12,9 +12,9 @@
 
 # Logotipo : <img src="https://github.com/Andgam1/Sharee2022/blob/main/Propuesta_4.png?raw=true" width="250"/>
 
-Slogan: Comparte experiencias, y en el camino construye grandes amistades.
+**Slogan**: Comparte experiencias, y en el camino construye grandes amistades.
 
-Hashtag: #ComunidadAmigos #Amigos #Sharee #Estudiantes #CompartirExperiencias
+**Hashtag**: #ComunidadAmigos #Amigos #Sharee #Estudiantes #CompartirExperiencias
 
 Licencia: ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
 
@@ -44,13 +44,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 * # Etapa 1: Ideación de proyecto
 <p align = "justify">El proyecto surgió a raiz de brainstorming realizado en clase, donde nos dimos cuenta que era necesario crear una comunidad para que los estudiantes extranjeros se pudieran adaptar mucho mas facil a la cultura y experiencia en Granada. Actividades realizadas mediante Trello https://trello.com/b/VBfGb6pJ/sharee. </p>
 
-**Necesidad/oportunidad** La necesidad de integrarse y vivir la experiencia de otra cultura y lograr una mejor adaptacion.
+**Necesidad/oportunidad**: La necesidad de integrarse y vivir la experiencia de otra cultura y lograr una mejor adaptacion.
 
 **Motivación de la propuesta ¿ por qué consideras interesante ?**
 <p align = "justify">Como estudiantes internacionales hemos tenido dificultades a diario debido a las diferencias culturales, por tanto, Sharee nace a partir de esta necesidad detectada pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada. Los anfitriones apoyan a los huéspedes durante su estadía para facilitar su adaptación en la ciudad a través de un acompañamiento y orientación personalizada sobre trámites académicos, recomendaciones turísticas y culturales, gastronomía, y demás información que sea relevante. Contamos con una aplicación móvil la cual permite a los usuarios interactuar y a los huéspedes compartir con los demás sus experiencias con los diferentes anfitriones. </p>
 
 
-**Personas/Usuarios** El público objetivo que hemos detectado tras realizar los estudios de mercado pertinentes son estudiantes extranjeros en Granada.
+**Personas/Usuarios**: El público objetivo que hemos detectado tras realizar los estudios de mercado pertinentes son estudiantes extranjeros en Granada.
 
 * # Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
