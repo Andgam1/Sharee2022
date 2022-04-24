@@ -1,5 +1,4 @@
 # Sharee2022
-(Plantilla para la creación de un proyecto en ideapolis)
 
 # <p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada. </p>
 
