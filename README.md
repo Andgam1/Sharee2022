@@ -1,6 +1,6 @@
 # Sharee2022
 
-# <p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada. </p>
+**<p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada.</p>**
 
 <img src="https://github.com/Andgam1/Sharee2022/blob/main/Banner.jpeg?raw=true" width="1000"/>
 
@@ -22,9 +22,9 @@ Fecha: Abril 2022
 
 # Redes Sociales:  
 
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/descarga1.png?raw=true" width="30"/> Guithub:https://github.com/Andgam1/Sharee2022#readme  
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/f.jpg?raw=true" width="30"/> Instagram:Poner enlace  
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> Tweeter:Poner enlace  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/descarga1.png?raw=true" width="30"/> **Github**: https://github.com/Andgam1/Sharee2022#readme  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/f.jpg?raw=true" width="30"/> **Instagram**: Poner enlace  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> **Tweeter**: Poner enlace  
 
 
 # ¿Quiénes somos?  
