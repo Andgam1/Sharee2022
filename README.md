@@ -26,10 +26,6 @@ Fecha: Abril 2022
 * <img src="https://github.com/Andgam1/Sharee2022/blob/main/f.jpg?raw=true" width="30"/> **Instagram**: Poner enlace  
 * <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> **Tweeter**: Poner enlace  
 
-
-# ¿Quiénes somos?  
-<p align = "justify"> Somos un grupo de 4 estudiantes del Máster en Gestión y Tecnologías de Procesos de Negocio, tras un Brainstorming realizado en clase, llegamos a la conclusión de que era necesario formar esta comunidad. Tenemos la suerte de compartir clase con personas de diversas nacionalidades y religiones, por ello sabemos de la riqueza que proporciona la conexión mental y física con otros países. Es así como nació esta idea que titulamos como "Sharee".</p>
-
 # Misión  
 
 # Visión  
