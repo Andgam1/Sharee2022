@@ -16,7 +16,7 @@
 
 **Hashtag**: #ComunidadAmigos #Amigos #Sharee #Estudiantes #CompartirExperiencias
 
-**Licencia**: ![](155021658-c58f934f-a908-45b3-be94-b33a5406b6cd.png)
+**Licencia**: <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/Licencia.jpeg?raw=true" width="100"/>
 
 **Fecha**: Abril 2022
 
