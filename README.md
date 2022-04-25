@@ -22,9 +22,9 @@
 
 # Redes Sociales:  
 
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/descarga1.png?raw=true" width="30"/> **Github**: https://github.com/Andgam1/Sharee2022#readme  
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/f.jpg?raw=true" width="30"/> **Instagram**: Poner enlace  
-* <img src="https://github.com/Andgam1/Sharee2022/blob/main/fdg.png?raw=true" width="30"/> **Twitter**: Poner enlace  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/GithubLogo.png" width="30"/> **Github**: https://github.com/Andgam1/Sharee2022#readme  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/InstagramLogo.jpg" width="30"/> **Instagram**: Poner enlace  
+* <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/TwitterLogo.png" width="30"/> **Twitter**: Poner enlace  
 
 # Misión  
 
