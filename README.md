@@ -29,18 +29,11 @@
 
 # Misión  
 
-<p align = "justify">Hacer posible que los estudiantes extranjeros se integren de forma adecuada y vivan al maximo de la experiencia de estudiar en otro pais y logren una conexión con culturas diversas de nuestra comunidad acompañándolos en una vivencia de viaje intercultural que supere cualquier expectativa incorporando los beneficios del mundo Sharee.</p>
-
-- Intercambio Cultural.
-- Salida de la zona de Confort.
-- Experiencia Única.
-- Desarrollo Personal.
-- Conocimiento de otras culturas.
-- Inmersión e intercambio con otras nacionalidades.
+<p align = "justify">Nuestra misión es facilitar el proceso de integración de los estudiantes extranjeros a nuevos contextos lingüísticos, legales, sociales, culturales, gastronómicos, haciendo que vivan al máximo la experiencia de estudiar en otro país y logren una conexión con culturas diversas a través de nuestra comunidad, brindando así, un acompañamiento en una vivencia de viaje intercultural que supere cualquier expectativa incorporando los beneficios del mundo Sharee.</p>
 
 # Visión  
 
-<p align = "justify">Ser una comunidad única que genera lazos a largo plazo, tanto culturales como sociales. Nos diferenciamos por nuestra transparencia y simplicidad, compromiso con nuestras comunidades culturales. Atraer, desarrollar y motivar constantemente a los equipos de excelencia apasionados por nuestra comunidad quienes quieren tener una experiencia única de cultura. Generar un valor agregado con los integrantes de la comunidad al permitirles vivir una experiencia de intercambio de culturas.</p>
+<p align = "justify">A 2025, Sharee será una comunidad única que genera relaciones de valor a largo plazo de toda índole, desde culturales, sociales, educativos, legales y gastronómicos, diferenciada por la transparencia, simplicidad y compromiso con nuestra comunidad; Atrayendo, desarrollando y motivando constantemente a los usuarios y generando un valor agregado al permitir vivir una experiencia de intercambio cultural.</p>
 
 # Acerca de Nosotros
 <p align = "justify">Somos cuatro estudiantes de máster de la Universidad de Granada y gracias a nuestra formación y experiencia hemos logrado formar un equipo multidisciplinar donde cada uno podrá aportar valor a nuestra comunidad. Jenny es nuestra Ingeniera de sistemas, quien, gracias a su experiencia en consultoría de software para implementaciones en cliente, brindará el apoyo técnico para el diseño e implementación de la aplicación móvil Sharee. Adriana, Administradora de empresas aportará con su visión estratégica, experiencia en marketing y manejo de relaciones públicas, para la formación de la comunidad y su consolidación, así como su promoción, divulgación y fidelización de nuestros miembros. Andrés, Ingeniero Industrial colaborará con la gestión financiera para el adecuado funcionamiento de las actividades de la comunidad y Daniela Ingeniera agroindustrial, gracias a su experiencia en gestión de procesos y calidad, y transformación digital, contribuirá con la implementación de las mejores prácticas, asegurándose de llevar a cabo el objetivo de nuestra comunidad.</p>
@@ -54,7 +47,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 **Necesidad/oportunidad**: La necesidad de integrarse y vivir la experiencia de otra cultura y lograr una mejor adaptacion.
 
 **Motivación de la propuesta ¿ por qué consideras interesante ?**
-<p align = "justify">Como estudiantes internacionales hemos tenido dificultades a diario debido a las diferencias culturales, por tanto, Sharee nace a partir de esta necesidad detectada pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada. Los anfitriones apoyan a los huéspedes durante su estadía para facilitar su adaptación en la ciudad a través de un acompañamiento y orientación personalizada sobre trámites académicos, recomendaciones turísticas y culturales, gastronomía, y demás información que sea relevante. Contamos con una aplicación móvil la cual permite a los usuarios interactuar y a los huéspedes compartir con los demás sus experiencias con los diferentes anfitriones. A demas de la realizacion de un calendario de actividades que promuevan el vinculo de estudiantes extranjeros y nacionales.</p>
+<p align = "justify">Como estudiantes internacionales hemos tenido dificultades a diario debido a las diferencias culturales, por tanto, Sharee nace a partir de esta necesidad, pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada. Los anfitriones apoyan a los huéspedes durante su estadía para facilitar su adaptación en la ciudad a través de un acompañamiento y orientación personalizada sobre trámites académicos, recomendaciones turísticas y culturales, gastronomía, y demás información que sea relevante. Contamos con una aplicación móvil la cual permite a los usuarios interactuar y a los huéspedes compartir con los demás sus experiencias con los diferentes anfitriones.</p>
 
 
 **Personas/Usuarios**: El público objetivo que hemos detectado tras realizar los estudios de mercado pertinentes son estudiantes extranjeros en Granada y los estudiantes nacionales, puesto que estos nos ayudaran en la creacion de actividades.
@@ -69,12 +62,15 @@ publicidad: banner (... )
 
 ...
 
-* # Etapa 3: Técnicas de evaluación utilizadas
-Para medir el desempeño de la comunidad nos basaremos en el uso de las siguientes metricas:
-- Número de miembros de la comunidad (usuarios estudiantes).
-- Número de interacciones (me gusta, compartir, comentarios, calificaciones).
-- Número de anfitriones.  
+* # Etapa 3: Técnicas de evaluación utilizadas  
+1. Alcance de publicaciones: revisión por cada red social, valor mensual / Valor total de visitas, además de views/ cantidad de usuarios.
+2. En el caso de Twitter:
+    * Menciones mes- menciones mes anterior.
+    * Tweets mes - Tweets mes anterior.
+3. Crecimiento comunidad: Incremento porcentual de la comunidad.
+4. Vinculación Google Ads, para conocer métricas de redes sociales, además de la vinculación de la página web, para dar seguimiento al usuario. 
 
+El monitoreo será mensual, con reuniones por parte del equipo. Y se prevé revisión bimensual para re organización de estrategia de contenido multimedia. 
 Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener un seguimiento a los usarios y poder mejorar la experiencia de la app cada vez mas.
 
 
