@@ -70,8 +70,8 @@ publicidad: banner (... )
 3. Crecimiento comunidad: Incremento porcentual de la comunidad.
 4. Vinculación Google Ads, para conocer métricas de redes sociales, además de la vinculación de la página web, para dar seguimiento al usuario. 
 
-El monitoreo será mensual, con reuniones por parte del equipo. Y se prevé revisión bimensual para re organización de estrategia de contenido multimedia. 
-Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener un seguimiento a los usarios y poder mejorar la experiencia de la app cada vez mas.
+<p align = "justify">El monitoreo será mensual, con reuniones por parte del equipo. Y se prevé revisión bimensual para re organización de estrategia de contenido multimedia. 
+Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener un seguimiento a los usarios y poder mejorar la experiencia de la app cada vez mas.</p>
 
 
 **Conclusiones y trabajo futuro**  
