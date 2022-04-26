@@ -10,7 +10,7 @@
 
 <p align = "justify"> Resumen : Sharee nace a partir de esta necesidad detectada pues es una comunidad creada con el fin de fomentar un espacio para compartir experiencias entre estudiantes internacionales (huéspedes) y estudiantes nacionales (anfitriones) residentes en Granada.</p>
 
-# Logotipo : <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/ShareeLogoBlanco.jpeg" width="200"/>
+# Logotipo : <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/Licencia.jpeg?raw=true" width="200"/>
 
 **Slogan**: Comparte experiencias, y en el camino construye grandes amistades.
 
