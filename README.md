@@ -76,7 +76,7 @@ Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener 
 
 **Conclusiones y trabajo futuro**  
 
-- **Problemas identificados**: El problema de las barreras sociales y el de la zona de confort, ademas de la barrrera del idioma y la normativa de extranjeria son los principales problemas identificados en la comunidad.  
+- **Problemas identificados**: <p align = "justify">El problema de las barreras sociales y el de la zona de confort, ademas de la barrrera del idioma y la normativa de extranjeria son los principales problemas identificados en la comunidad.</p>  
 - **Propuestas de mejora**: se establece un foro para que los usuarios puedan aportar su opinión y propuestas de mejora.
 
 
