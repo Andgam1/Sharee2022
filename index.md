@@ -1,6 +1,6 @@
 # Sharee2022
 
-**<p align = "justify"> Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada.</p>**
+<p align = "justify">Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada.</p>
 
 <img src="https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/Banner.jpeg?raw=true" width="1000"/>
 
