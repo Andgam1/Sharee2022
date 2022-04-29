@@ -73,6 +73,8 @@ publicidad: banner (... )
 <p align = "justify">El monitoreo será mensual, con reuniones por parte del equipo. Y se prevé revisión bimensual para re organización de estrategia de contenido multimedia. 
 Esto nos ayudara a medir la acogida que a tenido la comunidad y asi poder tener un seguimiento a los usarios y poder mejorar la experiencia de la app cada vez mas.</p>
 
+# Presentacion
+![](https://github.com/Andgam1/Sharee2022/blob/main/Imagenes/Sharee.gif?raw=true)  
 
 **Conclusiones y trabajo futuro**  
 
